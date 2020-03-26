@@ -6,7 +6,7 @@ Responsive Theme Built with Front - End Web Development Tools with the Newest Ve
 
 #Fully Responsive with All Devices [Mobile - Desktop] 
 
-*** Tools and Technologies ***
+*** Tools and Technologies ***.                                                                                
 => Html / Html5
 => CSS / CSS3
 => Javascript 
